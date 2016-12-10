@@ -1,20 +1,20 @@
 /*	
-UNIVERSIDADE ESTADUAL DA PARAÕBA
-Curso: CiÍncia da ComputaÁ„o
-Disciplina: Linguagem de ProgramaÁ„o 1
+UNIVERSIDADE ESTADUAL DA PARA√çBA
+Curso: Ci√™ncia da Computa√ß√£o
+Disciplina: Linguagem de Programa√ß√£o 1
 Professor: Danilo Abreu Santos
 Aluno: Leonardo Araujo Silva
 
-Lista 01: Entrada/SaÌda, vari·veis e expressıes
+Lista 01: Entrada/Sa√≠da, vari√°veis e express√µes
 
-02. Escreva um programa que apresente algumas informaÁıes na tela. [Consultar PDF]. 
+02. Escreva um programa que apresente algumas informa√ß√µes na tela. [Consultar PDF]. 
 
 */
 
 #include <stdio.h>
 
 main(){
-   	printf("TOTAL   =    100%\n");
+   	printf("TOTAL   =    100%%\n");
     printf("IVA     =    17%%\n");
     printf("IRS     =    15%%\n\n");
     printf("---------------\n\n");
