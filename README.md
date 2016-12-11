@@ -6,4 +6,4 @@ Disciplina: Linguagem de Programação 1<br>
 Professor: Danilo Abreu Santos<br>
 Aluno: Leonardo Araujo Silva<br>
 
-Algumas atividades com exemplos/exercícios simples/básicos, que realizei durante minhas aulas na cadeira de Linguagem de Programação 1.
+Exercícios básicos de verificação de aprendizagem da cadeira de Linguagem de Programção I.
