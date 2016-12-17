@@ -1,8 +1,7 @@
-# Lista 01: Entrada/Saída, Variáveis e Expressões
+#  Linguagem de Programação 1
 
 UNIVERSIDADE ESTADUAL DA PARAÍBA<br>
 Curso: Ciência da Computação<br>
-Disciplina: Linguagem de Programação 1<br>
 Professor: Danilo Abreu Santos<br>
 Aluno: Leonardo Araujo Silva<br>
 
