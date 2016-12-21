@@ -1,18 +1,17 @@
 /*
-UNIVERSIDADE ESTADUAL DA PARAÕBA
-Curso: CiÍncia da ComputaÁ„o
-Disciplina: Linguagem de ProgramaÁ„o 1
+UNIVERSIDADE ESTADUAL DA PARA√çBA
+Curso: Ci√™ncia da Computa√ß√£o
+Disciplina: Linguagem de Programa√ß√£o 1
 Professor: Danilo Abreu Santos
 Aluno: Leonardo Araujo Silva
 
 Lista 02: Estruturas Condicionais
 
-14. (UFU-L02Q10) FaÁa um programa que receba a altura e o sexo de uma pessoa e
-calcule e mostre seu peso ideal, utilizando as seguintes formulas (onde h
-corresponde ‡ altura):
-	Homens: (72,7 * h) ñ 58
-	Mulheres: (62,1 * h) - 44,7.
-http://vida-de-cefetiano.blogspot.com.br/2013/03/2-periodo-lista-04-em-linguagem-c.html
+15. (UFU-L02Q13) Fa√ßa um algoritmo que calcule a m√©dia ponderada das notas de 3
+provas. A primeira e a segunda prova tem peso 1 e a terceira tem peso 2. Ao final,
+mostrar a m√©dia do aluno e indicar se o aluno foi aprovado ou reprovado. A nota
+para aprova√ß√£o deve ser igual ou superior a 60 pontos. (cada prova a pontua√ß√£o
+vai de 0 a 100).
 */
 
 #include <stdio.h>
@@ -21,20 +20,22 @@ http://vida-de-cefetiano.blogspot.com.br/2013/03/2-periodo-lista-04-em-linguagem
 
 int main() {
 	setlocale(LC_ALL, "Portuguese");
-	double altura, rs;
-	char sexo;
+	float n1, n2, n3, media;
 
     do{
-        puts("Informe a sua altura (em metros): [0 para sair]");
-        scanf("%f", &altura);
+        puts("Digite as tr√™s notas do aluno : [0 para finalizar o programa]");
+        scanf("%f %f %f", &n1, &n2, &n3);
 
-        if(altura != 0){
-        	fflush(stdin);
-        	
-			
+        if((n1 != 0) && (n2 != 0) && (n3 != 0)){
+        	media = (n1+n2+n3)/3;
+		if(media >= 60 ){
+			printf("Aluno Aprovado\nM√©dia atingida : %f", media);
+		}else{
+			printf("Aluno reprovado\nM√©dia atingida : %f", media);
+		}	
         }else{
             printf("Programa finalizado.");
         }
         printf("\n\n");
-    }while(altura != 0);
+    }while((n1 != 0) && (n2 != 0) && (n3 != 0));
 }
