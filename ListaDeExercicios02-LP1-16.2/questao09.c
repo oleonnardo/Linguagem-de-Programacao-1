@@ -1,7 +1,7 @@
 /*
-UNIVERSIDADE ESTADUAL DA PARAÕBA
-Curso: CiÍncia da ComputaÁ„o
-Disciplina: Linguagem de ProgramaÁ„o 1
+UNIVERSIDADE ESTADUAL DA PARA√çBA
+Curso: Ci√™ncia da Computa√ß√£o
+Disciplina: Linguagem de Programa√ß√£o 1
 Professor: Danilo Abreu Santos
 Aluno: Leonardo Araujo Silva
 
@@ -19,7 +19,6 @@ y = { 1, se x <= 1 }
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
-#define ANO 2016
 
 int main() {
 	setlocale(LC_ALL, "Portuguese");
