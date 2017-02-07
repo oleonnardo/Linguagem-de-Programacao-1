@@ -3,8 +3,8 @@ Curso: Ciência da Computação<br>
 Disciplina: Linguagem de Programação 1<br>
 Professor: Danilo Abreu Santos<br>
 <br>
-<h4><b>Lista 03: Comandos de repetição</b><br></h4>
-<br><br>
+<center><h2><b>Lista 03: Comandos de repetição</b><br></h2></center>
+<br>
 <b>1.</b> Faça a um programa que calcule e mostre a soma dos 50 primeiros números pares.
 <br><br>
 2. Faça um programa que calcule o fatorial de um número dado pelo usuário.
@@ -15,7 +15,7 @@ cada um dos algarismos que compõem o número.
 4. Em Matemática, o número harmônico designado por H(n) define-se como sendo a
 soma da série harmônica:
 <br>
-<b><em>H(n) = 1 + 1/2 + 1/3 + 1/4 + ... + 1/n</em></b>
+<center><b><em>H(n) = 1 + 1/2 + 1/3 + 1/4 + ... + 1/n</em></b></center>
 <br>
 Faça um programa que leia um valor n inteiro e positivo e apresente o valor de
 H(n).
@@ -23,7 +23,7 @@ H(n).
 5. Faça um programa que leia um valor N inteiro e positivo, calcule o mostre o valor E,
 conforme a fórmula a seguir:
 <br>
-<b><em>H(n) = 1 + 1/1! + 1/2! + 1/3! + ... + 1/n!</em></b>
+<center><b><em>H(n) = 1 + 1/1! + 1/2! + 1/3! + ... + 1/n!</em></b></center>
 <br>
 6. Faça um programa que some os números impares contidos em um intervalo definido
 pelo usuário. O usuário define o valor inicial do intervalo e o valor final deste intervalo
@@ -37,7 +37,7 @@ Soma dos ímpares neste intervalo: 21</em>
 7. Faça um programa que calcule o terno pitagórico a, b, c, para o qual a + b + c = 1000.
 Um terno pitagórico é um conjunto de três números naturais, a, b, c, para a qual:
 <br>
-<b><em>a2 + b2 = c2</b></em>
+<center><b><em>a2 + b2 = c2</em></b></center>
 <br><br>
 8. Faça um programa que apresente um menu de opções para o cálculo das seguintes
 operações entre dois números:
