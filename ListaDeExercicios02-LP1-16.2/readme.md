@@ -37,13 +37,13 @@ deverá imprimir o desconto do INSS, seguindo os valores abaixo:
 <b>7.</b> Faça um programa que receba três números inteiros nas variáveis n1, n2 e n2. O
 programa deverá ordenar os números (do menor para o maior). A saída deverá
 obedecer a seguinte ordem de variáveis: n1, n2 e n3.
-<br>
+<br><br>
 
 <b>8.</b> Crie um programa que mostre o consumo de combustível de um carro no percurso
 (em quilômetros) que o usuário digitou, de acordo com o tipo do carro que também
 será informado pelo usuário. Sabe-se que o carro do tipo A faz 8 km com um litro
 de combustível, o tipo B faz 9 km com um litro e o tipo C faz 12 km com um litro.
-<br>
+<br><br>
 
 <b>9.</b> Crie um programa que ao entrar com o valor de X, imprima o valor de Y. Sabendo
 que:
