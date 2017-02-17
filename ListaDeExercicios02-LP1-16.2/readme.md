@@ -115,27 +115,25 @@ palavras devem ser escritas com letras maiúsculas.
 <br><br>
 
 <b><em>Exemplos</em></b><br>
+
 <b>Entrada</b><br>
 10<br>
 5 + 5<br>
-<br>
 <b>Saída</b><br>
-OK<br>
---------
+<em>OK</em><br>
 <br>
+
 <b>Entrada</b><br>
 44<br>
 23 * 2<br>
-<br>
 <b>Saída</b><br>
-OVERFLOW<br>
---------
+<em>OVERFLOW</em><br>
 <br>
+
 <b>Entrada</b><br>
 323500<br>
 42 * 35<br>
-<br>
 <b>Saída</b><br>
-OK<br>
---------
+<em>OK</em><br>
 <br>
+
