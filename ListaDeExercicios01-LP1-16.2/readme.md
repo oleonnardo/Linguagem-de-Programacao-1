@@ -12,13 +12,11 @@ Professor: Danilo Abreu Santos<br>
 <b>2.</b> Escreva um programa que apresente a seguinte informação não tela:
 <br>
 <table>
-<tr>
-  <td>TOTAL = 100%</td>
-  <td>IVA = 17%</td>
-  <td>IRS = 15%</td>
-  <td>------------------------</td>
-  <td>Liq. = 68%</td>
-</tr>
+<tr><td>TOTAL = 100%</td></tr>
+<tr><td>IVA = 17%</td></tr>
+<tr><td>IRS = 15%</td></tr>
+<tr><td>------------------------</td></tr>
+<tr><td>Liq. = 68%</td></tr>
 </table>
 <br><br>
 
