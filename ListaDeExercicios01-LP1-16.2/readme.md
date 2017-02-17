@@ -7,7 +7,7 @@ Professor: Danilo Abreu Santos<br>
 <br>
 
 <b>1.</b> Faça um programa que imprima na tela uma árvore de natal formada por asteriscos.
-<br><br>
+<br>
 
 <b>2.</b> Escreva um programa que apresente a seguinte informação não tela:
 <br>
@@ -18,7 +18,7 @@ Professor: Danilo Abreu Santos<br>
 <tr><td>------------------------</td></tr>
 <tr><td>Liq. = 68%</td></tr>
 </table>
-<br><br>
+<br>
 
 <b>3.</b>(UFU-L01Q06) Leia uma temperatura em graus Celsius e apresente-a convertida
 em graus Fahrenheit. A fórmula de conversão é: F = C∗1.8+32.0, sendo F a
