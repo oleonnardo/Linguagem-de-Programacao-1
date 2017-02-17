@@ -3,7 +3,7 @@ Curso: Ciência da Computação<br>
 Disciplina: Linguagem de Programação 1<br>
 Professor: Danilo Abreu Santos<br>
 <br>
-<center><h2><b>Lista 01: Entrada/Saída, variáveis e expressões</b><br></h2></center>
+<center><h2><b>Lista 01: Entrada/Saída, Variáveis e Expressões</b><br></h2></center>
 <br>
 
 <b>1.</b> Faça um programa que imprima na tela uma árvore de natal formada por asteriscos.
@@ -18,7 +18,6 @@ Professor: Danilo Abreu Santos<br>
 <tr><td>------------------------</td></tr>
 <tr><td>Liq. = 68%</td></tr>
 </table>
-<br>
 
 <b>3.</b>(UFU-L01Q06) Leia uma temperatura em graus Celsius e apresente-a convertida
 em graus Fahrenheit. A fórmula de conversão é: F = C∗1.8+32.0, sendo F a
