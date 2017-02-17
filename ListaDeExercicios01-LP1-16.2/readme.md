@@ -23,28 +23,28 @@ Professor: Danilo Abreu Santos<br>
 <b>3.</b>(UFU-L01Q06) Leia uma temperatura em graus Celsius e apresente-a convertida
 em graus Fahrenheit. A fórmula de conversão é: F = C∗1.8+32.0, sendo F a
 temperatura em Fahrenheit e C a temperatura em Celsius.
-<br><br>
+<br>
 
 <b>4.</b> (UFU-L01Q11) Leia uma velocidade em m/s (metros por segundo) e apresente-a
 convertida em km/h (quilômetros por hora). A fórmula de conversão é: K = M ∗
 3.6, sendo K a velocidade em km/h e M em m/s.
-<br><br>
+<br>
 
 <b>5.</b> (UFU-L01Q30) Leia um valor em real e a cotação do dólar. Em seguida, imprima
 o valor correspondente em dólares.
-<br><br>
+<br>
 
 <b>6.</b> (UFU-L01Q31) Leia um número inteiro e imprima o seu antecessor e o seu
 sucessor.
-<br><br>
+<br>
 
 <b>7.</b> (UFU-L01Q32) Leia um número inteiro e imprima a soma do sucessor de seu
 triplo com o antecessor de seu dobro.
-<br><br>
+<br>
 
 <b>8.</b> (UFU-L01Q33) Leia o tamanho do lado de um quadrado e imprima como
 resultado a sua área. 
-<br><br>
+<br>
 
 <b>9.</b> (URI-1001) Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a
 soma de A e B atribuindo o seu resultado na variável X. No final, imprima o valor
@@ -54,11 +54,11 @@ de X.
 <b>Saída:</b> Imprima a variável X conforme exemplo abaixo, com um espaço em
 branco antes e depois da igualdade. Obs: O X está em maiúsculo e deve ter um
 espaço antes e um espaço depois do sinal de igualdade.
-<br><br>
+<br>
 
 <b>10.</b> Faça um programa que leia um valor real e apresente a sua parte inteira e a sua
 parte fracionária.
-<br><br>
+<br>
 
 <b>11.</b> (URI-1002) A fórmula para calcular a área de uma circunferência é: <b>área = π .
 raio²</b>. Considerando para este problema que <b>π = 3.14159</b>. Efetue o cálculo da área,
@@ -66,7 +66,7 @@ elevando o valor de <b>Raio</b> ao quadrado e multiplicando por <b>π</b>.<br>
 <b>Entrada:</b> A entrada contém um valor de ponto flutuante (dupla precisão), no caso,
 a variável <b>raio</b>.<br>
 <b>Saída:</b> Apresentar a mensagem "A=" seguido pelo valor da variável<b>área</b>.
-<br><br>
+<br>
 
 <b>12.</b> (URI-1014) Calcule o consumo médio de um automóvel sendo fornecidos a
 distância total percorrida (em Km) e o total de combustível gasto (em litros).<br>
@@ -75,7 +75,7 @@ percorrida (em Km), e um valor real <b>Y</b> representando o total de combustív
 com um dígito após o ponto decimal.<br>
 <b>Saída:</b> Apresente o valor que representa o consumo médio do automóvel com 3
 casas após a vírgula, seguido da mensagem "km/l".
-<br><br>
+<br>
 
 <b>13.</b> (URI-1015) Leia os quatro valores correspondentes aos eixos x e y de dois pontos
 quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles,
@@ -86,4 +86,4 @@ ponto flutuante: <b>x1 y1</b> e a segunda linha contém dois valores de ponto fl
 y2</b>.<br>
 <b>Saída:</b> calcule e imprima o valor da distância segundo a fórmula fornecida, com
 4 casas após o ponto decimal.
-<br><br>
+<br>
