@@ -1,0 +1,6 @@
+-> O tabuleiro é uma matriz de três linhas por três colunas.
+-> Dois jogadores possuem uma marcação cada um - círculo (O) e um xis (X). 
+-> Os jogadores jogam alternadamente, inserindo as coordenadas, uma
+marcação por vez, em uma posição que esteja vazia. 
+-> Quando um jogador completa uma linha, coluna ou diagonal com 
+sua marcação, o mesmo vence a partida.
